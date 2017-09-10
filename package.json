@@ -9,7 +9,7 @@
     "extract:chapters": "node src/extract/scripts/extract-chapter-info.js",
     "extract:verses": "node src/extract/scripts/extract-verse-info.js",
     "extract": "npm-run-all -p extract:*",
-    "start": "micro src/server/index.js",
+    "start": "micro src/server/index.js -p $PORT",
     "dev": "micro-dev src/server/index.js"
   },
   "keywords": [],

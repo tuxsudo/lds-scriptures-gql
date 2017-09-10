@@ -1,0 +1,961 @@
+[
+  {
+    "volumeId": "1",
+    "id": "1",
+    "slug": "gen",
+    "title": "Genesis",
+    "subtitle": "",
+    "aliases": {
+      "short": "Gen.",
+      "long": "The First Book of Moses called Genesis"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "2",
+    "slug": "ex",
+    "title": "Exodus",
+    "subtitle": "",
+    "aliases": {
+      "short": "Ex.",
+      "long": "The Second Book of Moses called Exodus"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "3",
+    "slug": "lev",
+    "title": "Leviticus",
+    "subtitle": "",
+    "aliases": {
+      "short": "Lev.",
+      "long": "The Third Book of Moses called Leviticus"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "4",
+    "slug": "num",
+    "title": "Numbers",
+    "subtitle": "",
+    "aliases": {
+      "short": "Num.",
+      "long": "The Fourth Book of Moses called Numbers"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "5",
+    "slug": "deut",
+    "title": "Deuteronomy",
+    "subtitle": "",
+    "aliases": {
+      "short": "Deut.",
+      "long": "The Fifth Book of Moses called Deuteronomy"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "6",
+    "slug": "josh",
+    "title": "Joshua",
+    "subtitle": "",
+    "aliases": {
+      "short": "Josh.",
+      "long": "The Book of Joshua"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "7",
+    "slug": "judg",
+    "title": "Judges",
+    "subtitle": "",
+    "aliases": {
+      "short": "Judg.",
+      "long": "The Book of Judges"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "8",
+    "slug": "ruth",
+    "title": "Ruth",
+    "subtitle": "",
+    "aliases": {
+      "short": "Ruth",
+      "long": "The Book of Ruth"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "9",
+    "slug": "1-sam",
+    "title": "1 Samuel",
+    "subtitle": "Otherwise called the First Book of the Kings",
+    "aliases": {
+      "short": "1 Sam.",
+      "long": "The First Book of Samuel"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "10",
+    "slug": "2-sam",
+    "title": "2 Samuel",
+    "subtitle": "Otherwise called the Second Book of the Kings",
+    "aliases": {
+      "short": "2 Sam.",
+      "long": "The Second Book of Samuel"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "11",
+    "slug": "1-kgs",
+    "title": "1 Kings",
+    "subtitle": "Commonly called the Third Book of the Kings",
+    "aliases": {
+      "short": "1 Kgs.",
+      "long": "The First Book of the Kings"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "12",
+    "slug": "2-kgs",
+    "title": "2 Kings",
+    "subtitle": "Commonly called the Fourth Book of the Kings",
+    "aliases": {
+      "short": "2 Kgs.",
+      "long": "The Second Book of the King"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "13",
+    "slug": "1-chr",
+    "title": "1 Chronicles",
+    "subtitle": "",
+    "aliases": {
+      "short": "1 Chr.",
+      "long": "The First Book of the Chronicles"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "14",
+    "slug": "2-chr",
+    "title": "2 Chronicles",
+    "subtitle": "",
+    "aliases": {
+      "short": "2 Chr.",
+      "long": "The Second Book of the Chronicles"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "15",
+    "slug": "ezra",
+    "title": "Ezra",
+    "subtitle": "",
+    "aliases": {
+      "short": "Ezra",
+      "long": "Ezra"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "16",
+    "slug": "neh",
+    "title": "Nehemiah",
+    "subtitle": "",
+    "aliases": {
+      "short": "Neh.",
+      "long": "The Book of Nehemiah"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "17",
+    "slug": "esth",
+    "title": "Esther",
+    "subtitle": "",
+    "aliases": {
+      "short": "Esth.",
+      "long": "The Book of Esther"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "18",
+    "slug": "job",
+    "title": "Job",
+    "subtitle": "",
+    "aliases": {
+      "short": "Job",
+      "long": "The Book of Job"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "19",
+    "slug": "ps",
+    "title": "Psalms",
+    "subtitle": "",
+    "aliases": {
+      "short": "Ps.",
+      "long": "The Book of Psalms"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "20",
+    "slug": "prov",
+    "title": "Proverbs",
+    "subtitle": "",
+    "aliases": {
+      "short": "Prov.",
+      "long": "The Proverbs"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "21",
+    "slug": "eccl",
+    "title": "Ecclesiastes",
+    "subtitle": "",
+    "aliases": {
+      "short": "Eccl.",
+      "long": "Ecclesiastes or, The Preacher"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "22",
+    "slug": "song",
+    "title": "Solomon's Song",
+    "subtitle": "",
+    "aliases": {
+      "short": "Song.",
+      "long": "The Song of Solomon"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "23",
+    "slug": "isa",
+    "title": "Isaiah",
+    "subtitle": "",
+    "aliases": {
+      "short": "Isa.",
+      "long": "The Book of the Prophet Isaiah"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "24",
+    "slug": "jer",
+    "title": "Jeremiah",
+    "subtitle": "",
+    "aliases": {
+      "short": "Jer.",
+      "long": "The Book of the Prophet Jeremiah"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "25",
+    "slug": "lam",
+    "title": "Lamentations",
+    "subtitle": "",
+    "aliases": {
+      "short": "Lam.",
+      "long": "The Lamentations of Jeremiah"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "26",
+    "slug": "ezek",
+    "title": "Ezekiel",
+    "subtitle": "",
+    "aliases": {
+      "short": "Ezek.",
+      "long": "The Book of the Prophet Ezekiel"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "27",
+    "slug": "dan",
+    "title": "Daniel",
+    "subtitle": "",
+    "aliases": {
+      "short": "Dan.",
+      "long": "The Book of Daniel"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "28",
+    "slug": "hosea",
+    "title": "Hosea",
+    "subtitle": "",
+    "aliases": {
+      "short": "Hosea",
+      "long": "Hosea"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "29",
+    "slug": "joel",
+    "title": "Joel",
+    "subtitle": "",
+    "aliases": {
+      "short": "Joel",
+      "long": "Joel"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "30",
+    "slug": "amos",
+    "title": "Amos",
+    "subtitle": "",
+    "aliases": {
+      "short": "Amos",
+      "long": "Amos"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "31",
+    "slug": "obad",
+    "title": "Obadiah",
+    "subtitle": "",
+    "aliases": {
+      "short": "Obad.",
+      "long": "Obadiah"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "32",
+    "slug": "jonah",
+    "title": "Jonah",
+    "subtitle": "",
+    "aliases": {
+      "short": "Jonah",
+      "long": "Jonah"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "33",
+    "slug": "micah",
+    "title": "Micah",
+    "subtitle": "",
+    "aliases": {
+      "short": "Micah",
+      "long": "Micah"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "34",
+    "slug": "nahum",
+    "title": "Nahum",
+    "subtitle": "",
+    "aliases": {
+      "short": "Nahum",
+      "long": "Nahum"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "35",
+    "slug": "hab",
+    "title": "Habakkuk",
+    "subtitle": "",
+    "aliases": {
+      "short": "Hab.",
+      "long": "Habakkuk"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "36",
+    "slug": "zeph",
+    "title": "Zephaniah",
+    "subtitle": "",
+    "aliases": {
+      "short": "Zeph.",
+      "long": "Zephaniah"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "37",
+    "slug": "hag",
+    "title": "Haggai",
+    "subtitle": "",
+    "aliases": {
+      "short": "Hag.",
+      "long": "Haggai"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "38",
+    "slug": "zech",
+    "title": "Zechariah",
+    "subtitle": "",
+    "aliases": {
+      "short": "Zech.",
+      "long": "Zechariah"
+    }
+  },
+  {
+    "volumeId": "1",
+    "id": "39",
+    "slug": "mal",
+    "title": "Malachi",
+    "subtitle": "",
+    "aliases": {
+      "short": "Mal.",
+      "long": "Malachi"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "40",
+    "slug": "matt",
+    "title": "Matthew",
+    "subtitle": "",
+    "aliases": {
+      "short": "Matt.",
+      "long": "The Gospel According to St Matthew"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "41",
+    "slug": "mark",
+    "title": "Mark",
+    "subtitle": "",
+    "aliases": {
+      "short": "Mark",
+      "long": "The Gospel According to St Mark"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "42",
+    "slug": "luke",
+    "title": "Luke",
+    "subtitle": "",
+    "aliases": {
+      "short": "Luke",
+      "long": "The Gospel According to St Luke"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "43",
+    "slug": "john",
+    "title": "John",
+    "subtitle": "",
+    "aliases": {
+      "short": "John",
+      "long": "The Gospel According to St John"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "44",
+    "slug": "acts",
+    "title": "Acts",
+    "subtitle": "",
+    "aliases": {
+      "short": "Acts",
+      "long": "The Acts of the Apostles"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "45",
+    "slug": "rom",
+    "title": "Romans",
+    "subtitle": "",
+    "aliases": {
+      "short": "Rom.",
+      "long": "The Epistle of Paul the Apostle to the Romans"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "46",
+    "slug": "1-cor",
+    "title": "1 Corinthians",
+    "subtitle": "",
+    "aliases": {
+      "short": "1 Cor.",
+      "long": "The First Epistle of Paul the Apostle to the Corinthians"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "47",
+    "slug": "2-cor",
+    "title": "2 Corinthians",
+    "subtitle": "",
+    "aliases": {
+      "short": "2 Cor.",
+      "long": "The Second Epistle of Paul the Apostle to the Corinthians"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "48",
+    "slug": "gal",
+    "title": "Galatians",
+    "subtitle": "",
+    "aliases": {
+      "short": "Gal.",
+      "long": "The Epistle of Paul the Apostle to the Galatians"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "49",
+    "slug": "eph",
+    "title": "Ephesians",
+    "subtitle": "",
+    "aliases": {
+      "short": "Eph.",
+      "long": "The Epistle of Paul the Apostle to the Ephesians"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "50",
+    "slug": "philip",
+    "title": "Philippians",
+    "subtitle": "",
+    "aliases": {
+      "short": "Philip.",
+      "long": "The Epistle of Paul the Apostle to the Philippians"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "51",
+    "slug": "col",
+    "title": "Colossians",
+    "subtitle": "",
+    "aliases": {
+      "short": "Col.",
+      "long": "The Epistle of Paul the Apostle to the Colossians"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "52",
+    "slug": "1-thes",
+    "title": "1 Thessalonians",
+    "subtitle": "",
+    "aliases": {
+      "short": "1 Thes.",
+      "long": "The First Epistle of Paul the Apostle to the Thessalonians"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "53",
+    "slug": "2-thes",
+    "title": "2 Thessalonians",
+    "subtitle": "",
+    "aliases": {
+      "short": "2 Thes.",
+      "long": "The Second Epistle of Paul the Apostle to the Thessalonians"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "54",
+    "slug": "1-tim",
+    "title": "1 Timothy",
+    "subtitle": "",
+    "aliases": {
+      "short": "1 Tim.",
+      "long": "The First Epistle of Paul the Apostle to Timothy"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "55",
+    "slug": "2-tim",
+    "title": "2 Timothy",
+    "subtitle": "",
+    "aliases": {
+      "short": "2 Tim.",
+      "long": "The Second Epistle of Paul the Apostle to Timothy"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "56",
+    "slug": "titus",
+    "title": "Titus",
+    "subtitle": "",
+    "aliases": {
+      "short": "Titus",
+      "long": "The Epistle of Paul to Titus"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "57",
+    "slug": "philem",
+    "title": "Philemon",
+    "subtitle": "",
+    "aliases": {
+      "short": "Philem.",
+      "long": "The Epistle of Paul to Philemon"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "58",
+    "slug": "heb",
+    "title": "Hebrews",
+    "subtitle": "",
+    "aliases": {
+      "short": "Heb.",
+      "long": "The Epistle of Paul to the Hebrews"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "59",
+    "slug": "james",
+    "title": "James",
+    "subtitle": "",
+    "aliases": {
+      "short": "James",
+      "long": "The General Epistle of James"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "60",
+    "slug": "1-pet",
+    "title": "1 Peter",
+    "subtitle": "",
+    "aliases": {
+      "short": "1 Pet.",
+      "long": "The First Epistle General of Peter"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "61",
+    "slug": "2-pet",
+    "title": "2 Peter",
+    "subtitle": "",
+    "aliases": {
+      "short": "2 Pet.",
+      "long": "The Second Epistle General of Peter"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "62",
+    "slug": "1-jn",
+    "title": "1 John",
+    "subtitle": "",
+    "aliases": {
+      "short": "1 Jn.",
+      "long": "The First Epistle General of John"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "63",
+    "slug": "2-jn",
+    "title": "2 John",
+    "subtitle": "",
+    "aliases": {
+      "short": "2 Jn.",
+      "long": "The Second Epistle of John"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "64",
+    "slug": "3-jn",
+    "title": "3 John",
+    "subtitle": "",
+    "aliases": {
+      "short": "3 Jn.",
+      "long": "The Third Epistle of John"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "65",
+    "slug": "jude",
+    "title": "Jude",
+    "subtitle": "",
+    "aliases": {
+      "short": "Jude",
+      "long": "The General Epistle of Jude"
+    }
+  },
+  {
+    "volumeId": "2",
+    "id": "66",
+    "slug": "rev",
+    "title": "Revelation",
+    "subtitle": "",
+    "aliases": {
+      "short": "Rev.",
+      "long": "The Revelation of St John the Divine"
+    }
+  },
+  {
+    "volumeId": "3",
+    "id": "67",
+    "slug": "1-ne",
+    "title": "1 Nephi",
+    "subtitle": "His Reign and Ministry",
+    "aliases": {
+      "short": "1 Ne.",
+      "long": "The First Book of Nephi"
+    }
+  },
+  {
+    "volumeId": "3",
+    "id": "68",
+    "slug": "2-ne",
+    "title": "2 Nephi",
+    "subtitle": "",
+    "aliases": {
+      "short": "2 Ne.",
+      "long": "The Second Book of Nephi"
+    }
+  },
+  {
+    "volumeId": "3",
+    "id": "69",
+    "slug": "jacob",
+    "title": "Jacob",
+    "subtitle": "The Brother of Nephi",
+    "aliases": {
+      "short": "Jacob",
+      "long": "The Book of Jacob"
+    },
+    "heading": "The words of his preaching unto his brethren. He confoundeth a man who seeketh to overthrow the doctrine of Christ. A few words concerning the history of the people of Nephi."
+  },
+  {
+    "volumeId": "3",
+    "id": "70",
+    "slug": "enos",
+    "title": "Enos",
+    "subtitle": "",
+    "aliases": {
+      "short": "Enos",
+      "long": "The Book of Enos"
+    }
+  },
+  {
+    "volumeId": "3",
+    "id": "71",
+    "slug": "jarom",
+    "title": "Jarom",
+    "subtitle": "",
+    "aliases": {
+      "short": "Jarom",
+      "long": "The Book of Jarom"
+    }
+  },
+  {
+    "volumeId": "3",
+    "id": "72",
+    "slug": "omni",
+    "title": "Omni",
+    "subtitle": "",
+    "aliases": {
+      "short": "Omni",
+      "long": "The Book of Omni"
+    }
+  },
+  {
+    "volumeId": "3",
+    "id": "73",
+    "slug": "w-of-m",
+    "title": "Words of Mormon",
+    "subtitle": "",
+    "aliases": {
+      "short": "W of M",
+      "long": "Words of Mormon"
+    }
+  },
+  {
+    "volumeId": "3",
+    "id": "74",
+    "slug": "mosiah",
+    "title": "Mosiah",
+    "subtitle": "",
+    "aliases": {
+      "short": "Mosiah",
+      "long": "The Book of Mosiah"
+    }
+  },
+  {
+    "volumeId": "3",
+    "id": "75",
+    "slug": "alma",
+    "title": "Alma",
+    "subtitle": "The Son of Alma",
+    "aliases": {
+      "short": "Alma",
+      "long": "The Book of Alma"
+    },
+    "heading": "The account of Alma, who was the son of Alma, the first and chief judge over the people of Nephi, and also the high priest over the Church. An account of the reign of the judges, and the wars and contentions among the people. And also an account of a war between the Nephites and the Lamanites, according to the record of Alma, the first and chief judge."
+  },
+  {
+    "volumeId": "3",
+    "id": "76",
+    "slug": "hel",
+    "title": "Helaman",
+    "subtitle": "",
+    "aliases": {
+      "short": "Hel.",
+      "long": "The Book of Helaman"
+    }
+  },
+  {
+    "volumeId": "3",
+    "id": "77",
+    "slug": "3-ne",
+    "title": "3 Nephi",
+    "subtitle": "The Book of Nephi\\nThe Son of Nephi, who was the Son of Helaman",
+    "aliases": {
+      "short": "3 Ne.",
+      "long": "The Third Book of Nephi"
+    }
+  },
+  {
+    "volumeId": "3",
+    "id": "78",
+    "slug": "4-ne",
+    "title": "4 Nephi",
+    "subtitle": "The Book of Nephi\\r\\nWho is the son of Nephi, one of the disciples of Jesus Christ",
+    "aliases": {
+      "short": "4 Ne.",
+      "long": "The Fourth Book of Nephi"
+    }
+  },
+  {
+    "volumeId": "3",
+    "id": "79",
+    "slug": "morm",
+    "title": "Mormon",
+    "subtitle": "",
+    "aliases": {
+      "short": "Morm.",
+      "long": "The Book of Mormon"
+    }
+  },
+  {
+    "volumeId": "3",
+    "id": "80",
+    "slug": "ether",
+    "title": "Ether",
+    "subtitle": "",
+    "aliases": {
+      "short": "Ether",
+      "long": "The Book of Ether"
+    }
+  },
+  {
+    "volumeId": "3",
+    "id": "81",
+    "slug": "moro",
+    "title": "Moroni",
+    "subtitle": "",
+    "aliases": {
+      "short": "Moro.",
+      "long": "The Book of Moroni"
+    }
+  },
+  {
+    "volumeId": "4",
+    "id": "82",
+    "slug": "dc",
+    "title": "Doctrine and Covenants",
+    "subtitle": "of the Church of Jesus Christ of Latter-day Saints",
+    "aliases": {
+      "short": "D&C",
+      "long": "The Doctrine and Covenants"
+    }
+  },
+  {
+    "volumeId": "5",
+    "id": "83",
+    "slug": "moses",
+    "title": "Moses",
+    "subtitle": "",
+    "aliases": {
+      "short": "Moses",
+      "long": "Selections from the Book of Moses"
+    }
+  },
+  {
+    "volumeId": "5",
+    "id": "84",
+    "slug": "abr",
+    "title": "Abraham",
+    "subtitle": "Translated from the papyrus, by Joseph Smith",
+    "aliases": {
+      "short": "Abr.",
+      "long": "The Book of Abraham"
+    }
+  },
+  {
+    "volumeId": "5",
+    "id": "85",
+    "slug": "js-m",
+    "title": "Joseph Smith--Matthew",
+    "subtitle": "",
+    "aliases": {
+      "short": "JS-M",
+      "long": "Joseph Smith--Matthew"
+    }
+  },
+  {
+    "volumeId": "5",
+    "id": "86",
+    "slug": "js-h",
+    "title": "Joseph Smith--History",
+    "subtitle": "Extracts from The History of Joseph Smith, the Prophet",
+    "aliases": {
+      "short": "JS-H",
+      "long": "Joseph Smith--History"
+    }
+  },
+  {
+    "volumeId": "5",
+    "id": "87",
+    "slug": "a-of-f",
+    "title": "Articles of Faith",
+    "subtitle": "Of The Church of Jesus Christ of Latter-day Saints",
+    "aliases": {
+      "short": "A of F",
+      "long": "The Articles of Faith"
+    }
+  }
+]

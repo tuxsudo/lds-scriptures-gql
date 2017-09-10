@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "title": "Old Testament",
+    "aliases": {
+      "short": "OT",
+      "long": "The Old Testament"
+    },
+    "subtitle": "",
+    "slug": "ot"
+  },
+  {
+    "id": "2",
+    "title": "New Testament",
+    "aliases": {
+      "short": "NT",
+      "long": "The New Testament"
+    },
+    "subtitle": "Of our Lord and Saviour Jesus Christ",
+    "slug": "nt"
+  },
+  {
+    "id": "3",
+    "title": "Book of Mormon",
+    "aliases": {
+      "short": "BoM",
+      "long": "The Book of Mormon"
+    },
+    "subtitle": "Another Testament of Jesus Christ",
+    "slug": "bm"
+  },
+  {
+    "id": "4",
+    "title": "Doctrine and Covenants",
+    "aliases": {
+      "short": "D&C",
+      "long": "The Doctrine and Covenants"
+    },
+    "subtitle": "",
+    "slug": "dc"
+  },
+  {
+    "id": "5",
+    "title": "Pearl of Great Price",
+    "aliases": {
+      "short": "PGP",
+      "long": "The Pearl of Great Price"
+    },
+    "subtitle": "",
+    "slug": "pgp"
+  }
+]

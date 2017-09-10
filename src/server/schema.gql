@@ -1,0 +1,153 @@
+scalar Slug
+
+scalar Keywords
+
+
+type Aliases {
+  short: String
+  long: String
+}
+
+type PageInfo {
+  hasNextPage: Boolean!
+  total: Int!
+}
+
+type Volume {
+  id: ID!
+  slug: Slug!
+  title: String!
+  aliases: Aliases!
+  # books: [Book]
+  booksConnection(
+    input: BookSearchInput
+    after: String
+    first: Int = 20
+  ): BookConnection!
+}
+
+input VolumeSearchInput {
+  keywords: Keywords
+}
+
+type VolumeEdge {
+  cursor: String!
+  node: Volume!
+}
+
+type VolumeConnection {
+  pageInfo: PageInfo!
+  edges: [VolumeEdge]
+}
+
+type Book {
+  id: ID!
+  slug: Slug!
+  title: String!
+  aliases: Aliases!
+  heading: String
+  volume: Volume!
+  # chapters: [Chapter]!
+  chaptersConnection(
+    input: ChapterSearchInput
+    after: String
+    first: Int = 20
+  ): ChapterConnection!
+  versesConnection(
+    input: VerseSearchInput
+    after: String
+    first: Int = 20
+  ): VerseConnection
+}
+
+input BookSearchInput {
+  keywords: Keywords
+  volumeIds: [ID]
+}
+
+type BookEdge {
+  cursor: String!
+  node: Book!
+}
+
+type BookConnection {
+  pageInfo: PageInfo!
+  edges: [BookEdge]
+}
+
+type Chapter {
+  id: ID!
+  number: Int!
+  title: String!
+  aliases: Aliases!
+  # verses: [Verse]!
+  book: Book!
+  versesConnection(
+    input: VerseSearchInput
+    after: String
+    first: Int = 20
+  ): VerseConnection
+}
+
+input ChapterSearchInput {
+  keywords: Keywords
+  bookIds: [ID]
+}
+
+
+type ChapterEdge {
+  cursor: String!
+  node: Chapter!
+}
+
+type ChapterConnection {
+  pageInfo: PageInfo!
+  edges: [ChapterEdge]
+}
+
+type Verse {
+  id: ID!
+  title: String!
+  aliases: Aliases!
+  number: Int!
+  text: String!
+  chapter: Chapter!
+}
+
+input VerseSearchInput {
+  keywords: Keywords
+  chapterIds: [ID]
+}
+
+type VerseEdge {
+  cursor: String!
+  node: Verse!
+}
+
+type VerseConnection {
+  pageInfo: PageInfo!
+  edges: [VerseEdge]
+}
+
+type Query {
+  getVolume(id: ID!): Volume!
+  getBook(id: ID!): Book!
+  getChapter(id: ID!): Chapter!
+  getVerse(id: ID!): Verse!
+  allVolumes(
+    input: VolumeSearchInput
+    after: String
+    first: Int = 20
+  ): VolumeConnection!
+  allBooks(input: BookSearchInput, after: String, first: Int = 20): BookConnection!
+  allChapters(
+    input: ChapterSearchInput
+    after: String
+    first: Int = 20
+  ): ChapterConnection!
+  allVerses(
+    input: VerseSearchInput
+    after: String
+    first: Int = 20
+  ): VerseConnection!
+}

@@ -1,0 +1,35 @@
+{
+  "name": "@tuxsudo/scriptures-gql",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LDS Scriptures (provided by Mormon Documentation Project) served up via GraphQL endpoint",
+  "scripts": {
+    "extract:volumes": "node src/extract/scripts/extract-volume-info.js",
+    "extract:books": "node src/extract/scripts/extract-book-info.js",
+    "extract:chapters": "node src/extract/scripts/extract-chapter-info.js",
+    "extract:verses": "node src/extract/scripts/extract-verse-info.js",
+    "extract": "npm-run-all -p extract:*",
+    "start": "micro src/server/index.js",
+    "dev": "micro-dev src/server/index.js"
+  },
+  "keywords": [],
+  "author": "Jared Anderson @tuxsudo",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.6.1",
+    "eslint-plugin-prettier": "^2.2.0",
+    "husky": "^0.14.3",
+    "lint-staged": "^4.1.3",
+    "micro-dev": "^1.2.2",
+    "npm-run-all": "^4.1.1",
+    "prettier": "^1.6.1",
+    "rimraf": "^2.6.1",
+    "shelljs": "^0.7.8"
+  },
+  "dependencies": {
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.3",
+    "graphql-tools": "^1.2.2",
+    "micro": "^8.0.4"
+  }
+}

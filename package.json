@@ -31,5 +31,6 @@
     "graphql": "^0.11.3",
     "graphql-tools": "^1.2.2",
     "micro": "^8.0.4"
-  }
+  },
+  "engines" : { "node" : ">=8.4" }
 }

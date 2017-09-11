@@ -47,7 +47,10 @@ const bigData = require("../src-data/lds-scriptures")
       volumeInfo.books &&
       volumeInfo.books.find(b => b.book === data.aliases.short);
 
-    return Object.assign({}, data, bookInfo && { heading: bookInfo.heading });
+    return {
+      ...data,
+      ...(bookInfo && { heading: bookInfo.heading })
+    };
   });
 
 shelljs

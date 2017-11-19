@@ -18,5 +18,333 @@
   {
     "authors": ["1"],
     "book": "5"
+  },
+  {
+    "authors": ["2"],
+    "book": "6"
+  },
+  {
+    "authors": ["3", "14", "15"],
+    "book": "7"
+  },
+  {
+    "authors": ["3", "14", "15"],
+    "book": "8"
+  },
+  {
+    "authors": ["3", "14", "15"],
+    "book": "9"
+  },
+  {
+    "authors": ["3", "14", "15"],
+    "book": "10"
+  },
+  {
+    "authors": ["4"],
+    "book": "11"
+  },
+  {
+    "authors": ["4"],
+    "book": "12"
+  },
+  {
+    "authors": ["5"],
+    "book": "13"
+  },
+  {
+    "authors": ["5"],
+    "book": "14"
+  },
+  {
+    "authors": ["5"],
+    "book": "15"
+  },
+  {
+    "authors":["5", "16"],
+    "book": "16"
+  },
+  {
+    "authors":["6"],
+    "book": "17"
+  },
+  {
+    "authors":["17"],
+    "book": "18"
+  },
+  {
+    "authors":["7"],
+    "book": "19"
+  },
+  {
+    "authors":["8"],
+    "book": "20"
+  },
+  {
+    "authors":["8"],
+    "book": "21"
+  },
+  {
+    "authors":["8"],
+    "book": "22"
+  },
+  {
+    "authors":["9"],
+    "book": "23"
+  },
+  {
+    "authors":["10"],
+    "book": "24"
+  },
+  {
+    "authors":["10"],
+    "book": "25"
+  },
+  {
+    "authors":["11"],
+    "book": "26"
+  },
+  {
+    "authors":["12"],
+    "book": "27"
+  },
+  {
+    "authors":["13"],
+    "book": "28"
+  },
+  {
+    "authors":["18"],
+    "book": "29"
+  },
+  {
+    "authors":["19"],
+    "book": "30"
+  },
+  {
+    "authors":["20"],
+    "book": "31"
+  },
+  {
+    "authors":["21"],
+    "book": "32"
+  },
+  {
+    "authors":["22"],
+    "book": "33"
+  },
+  {
+    "authors":["23"],
+    "book": "34"
+  },
+  {
+    "authors":["24"],
+    "book": "35"
+  },
+  {
+    "authors":["25"],
+    "book": "36"
+  },
+  {
+    "authors":["26"],
+    "book": "37"
+  },
+  {
+    "authors":["27"],
+    "book": "38"
+  },
+  {
+    "authors":["28"],
+    "book": "39"
+  },
+  {
+    "authors":["29"],
+    "book": "40"
+  },
+  {
+    "authors":["30"],
+    "book": "41"
+  },
+  {
+    "authors":["31"],
+    "book": "42"
+  },
+  {
+    "authors":["32"],
+    "book": "43"
+  },
+  {
+    "authors":["31"],
+    "book": "44"
+  },
+  {
+    "authors":["33"],
+    "book": "45"
+  },
+  {
+    "authors":["33"],
+    "book": "46"
+  },
+  {
+    "authors":["33"],
+    "book": "47"
+  },
+  {
+    "authors":["33"],
+    "book": "48"
+  },
+  {
+    "authors":["33"],
+    "book": "49"
+  },
+  {
+    "authors":["33"],
+    "book": "50"
+  },
+  {
+    "authors":["33"],
+    "book": "51"
+  },
+  {
+    "authors":["33"],
+    "book": "52"
+  },
+  {
+    "authors":["33"],
+    "book": "53"
+  },
+  {
+    "authors":["33"],
+    "book": "54"
+  },
+  {
+    "authors":["33"],
+    "book": "55"
+  },
+  {
+    "authors":["33"],
+    "book": "56"
+  },
+  {
+    "authors":["33"],
+    "book": "57"
+  },
+  {
+    "authors":["33", "31", "34", "35"],
+    "book": "58"
+  },
+  {
+    "authors":["36"],
+    "book": "59"
+  },
+  {
+    "authors":["37"],
+    "book": "60"
+  },
+  {
+    "authors":["37"],
+    "book": "61"
+  },
+  {
+    "authors":["32"],
+    "book": "62"
+  },
+  {
+    "authors":["32"],
+    "book": "63"
+  },
+  {
+    "authors":["32"],
+    "book": "64"
+  },
+  {
+    "authors":["38"],
+    "book": "65"
+  },
+  {
+    "authors":["32"],
+    "book": "66"
+  },
+  {
+    "authors":["39"],
+    "book": "67"
+  },
+  {
+    "authors":["39"],
+    "book": "68"
+  },
+  {
+    "authors":["40"],
+    "book": "69"
+  },
+  {
+    "authors":["41"],
+    "book": "70"
+  },
+  {
+    "authors":["42"],
+    "book": "71"
+  },
+  {
+    "authors":["43", "44", "45", "46", "47"],
+    "book": "72"
+  },
+  {
+    "authors":["48"],
+    "book": "73"
+  },
+  {
+    "authors":["49"],
+    "book": "74"
+  },
+  {
+    "authors":["50"],
+    "book": "75"
+  },
+  {
+    "authors":["51"],
+    "book": "76"
+  },
+  {
+    "authors":["52", "53"],
+    "book": "77"
+  },
+  {
+    "authors":["52", "53"],
+    "book": "78"
+  },
+  {
+    "authors":["55"],
+    "book": "79"
+  },
+  {
+    "authors":["54", "53"],
+    "book": "80"
+  },
+  {
+    "authors":["56"],
+    "book": "81"
+  },
+  {
+    "authors":["57", "58"],
+    "book": "82"
+  },
+  {
+    "authors":["1"],
+    "book": "83"
+  },
+  {
+    "authors":["59"],
+    "book": "84"
+  },
+  {
+    "authors":["57"],
+    "book": "85"
+  },
+  {
+    "authors":["57"],
+    "book": "86"
+  },
+  {
+    "authors":["57"],
+    "book": "87"
   }
 ]
